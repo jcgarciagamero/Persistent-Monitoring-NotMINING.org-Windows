@@ -1,2 +1,2 @@
-cd "absolute path"
+cd absolute path
 persistentMonitoring.py
