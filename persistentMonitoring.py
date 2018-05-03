@@ -46,6 +46,21 @@ while i == 0:
 			search22 = lines.find('104.18.54.211')
 			search23 = lines.find('185.183.156.241')
 			search24 = lines.find('104.20.208.59')
+			search25 = lines.find('217.182.164.14')
+			search26 = lines.find('37.187.167.70')
+			search27 = lines.find('37.187.165.17')
+			search28 = lines.find('37.187.165.41')
+			search29 = lines.find('37.187.165.207')
+			search30 = lines.find('37.187.165.210')
+			search31 = lines.find('37.187.166.108')
+			search32 = lines.find('37.187.167.21')
+			search33 = lines.find('37.187.167.30')
+			search34 = lines.find('37.187.167.36')
+			search35 = lines.find('37.187.167.47')
+			search36 = lines.find('37.187.167.69')
+			search37 = lines.find('37.187.167.70')
+			search38 = lines.find('37.187.167.72')
+			search39 = lines.find('37.187.167.83')
 
 			if search != -1:
 				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
@@ -144,6 +159,70 @@ while i == 0:
 				QMessageBox.Ok,
 				QMessageBox.Ok)	
 			elif search24 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search25 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search26 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search27 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search28 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search29 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search29 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search30 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search31 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search32 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search33 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search34 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search35 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search36 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search37 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search38 != -1:
+				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
+				QMessageBox.Ok,
+				QMessageBox.Ok)
+			elif search39 != -1:
 				QMessageBox.information(None, 'Persistent Monitoring (NotMINING.org)', u'Mining with Coinhive',
 				QMessageBox.Ok,
 				QMessageBox.Ok)
